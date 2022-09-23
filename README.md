@@ -1,9 +1,6 @@
 # Hello 👋
-```javascript
-I’m 19 years old and currently I find myself living in Argentina. 
-I started learning Fronted on September 15 in 2022. 
-These days i’m being a Platzi student who is opened to continue with his studies looking for new plataforms so as to improve my knowledge about Frontend developing.
-```
+
+*I’m 19 years old and currently I find myself living in Argentina, I started learning Fronted on September 15 in 2022. These days i’m being a Platzi student, who is opened to continue with his studies looking for new plataforms so as to improve my knowledge about developing.*
 
 ```
 You can find me on:

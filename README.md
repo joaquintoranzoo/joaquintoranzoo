@@ -6,8 +6,8 @@
 You can find me on:
 ```
 
-* :camera: [Instagram.web](instagram.com/joatoranzo_ "My instagram profile") 
-* :bird: [Twitter.web](twitter.com/joaquintoranzo3 "My twitter profile.") 
+* :camera: Instagram: instagram.com/joatoranzo_
+* :bird: Twitter: twitter.com/joaquintoranzo3
 
  *To view my Platzi profile and my certifications <a href="https://platzi.com/p/joaquintoranzo_/">click here</a>.*
  

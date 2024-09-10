@@ -1,4 +1,4 @@
-# 💁‍♂️ About Me:
+# About Me:
 I'm a 20-year-old student at the National Technological University in Argentina, majoring in programming. I am passionate about coding and constantly looking for opportunities to learn and grow. I am open to collaborating on projects, both personal and professional, to enhance my skills and contribute to meaningful work. Feel free to reach out if you have an interesting project or if you'd like to connect!
 
 
@@ -11,7 +11,4 @@ I'm a 20-year-old student at the National Technological University in Argentina,
 ![](https://github-readme-stats.vercel.app/api?username=joaquintoranzoo&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joaquintoranzoo&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquintoranzoo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

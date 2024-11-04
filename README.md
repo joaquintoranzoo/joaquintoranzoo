@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquin</h1>
 <h3 align="center">Currently studying at UTN, passionate about creating impactful solutions.</h3>
 
-- 🔭 I’m currently working on [an expense control app with colleagues]([Private repository])
+- 🔭 I’m currently working on an expense control app with colleagues (Private repository)
 
 - 🌱 I’m currently learning **Flask,MongoDB y Linux**
 
